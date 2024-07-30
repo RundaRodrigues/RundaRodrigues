@@ -1,6 +1,6 @@
 ### Olá !! Eu sou o Rundã P. Rodrigues👋
 
-- 🔭 Atualmente trabalho como QA
+- 🔭 Atualmente trabalho como QA Engineer
 - 🌱 Aprendendo HTML + CSS + JS / Java / Python / React / Node
 - 📫 Contate-me em: rundarodrigues@hotmail.com
 - 😄 Pronomes: ele/dele
